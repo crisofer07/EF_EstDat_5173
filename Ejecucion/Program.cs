@@ -12,7 +12,11 @@ namespace Ejecucion
             g.GenerarMatriz();
             g.MostrarMatriz();
             g.CrearGrafo();
-            g.Recorrer(g.GetInicio());
+            float total_recorrido=0;
+            
+            g.Recorrer(g.GetInicio(),ref total_recorrido);
+
+            Console.WriteLine("Total recorrido: "+total_recorrido);
         }
     }
 }
