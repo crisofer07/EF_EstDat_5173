@@ -1,0 +1,11 @@
+/home/anthony/Escritorio/Semana15/Clases/bin/Debug/net8.0/Clases.deps.json
+/home/anthony/Escritorio/Semana15/Clases/bin/Debug/net8.0/Clases.dll
+/home/anthony/Escritorio/Semana15/Clases/bin/Debug/net8.0/Clases.pdb
+/home/anthony/Escritorio/Semana15/Clases/obj/Debug/net8.0/Clases.GeneratedMSBuildEditorConfig.editorconfig
+/home/anthony/Escritorio/Semana15/Clases/obj/Debug/net8.0/Clases.AssemblyInfoInputs.cache
+/home/anthony/Escritorio/Semana15/Clases/obj/Debug/net8.0/Clases.AssemblyInfo.cs
+/home/anthony/Escritorio/Semana15/Clases/obj/Debug/net8.0/Clases.csproj.CoreCompileInputs.cache
+/home/anthony/Escritorio/Semana15/Clases/obj/Debug/net8.0/Clases.dll
+/home/anthony/Escritorio/Semana15/Clases/obj/Debug/net8.0/refint/Clases.dll
+/home/anthony/Escritorio/Semana15/Clases/obj/Debug/net8.0/Clases.pdb
+/home/anthony/Escritorio/Semana15/Clases/obj/Debug/net8.0/ref/Clases.dll
