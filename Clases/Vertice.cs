@@ -1,13 +1,15 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
 namespace Clases
 {
-    //VERTICE = NODO
     public class Vertice
     {
         public Ciudad dato;
-        //lista simple
         public Vertice sig = null;
-
-        //grafo
         public ListaAristas ls = new ListaAristas();
     }
 }

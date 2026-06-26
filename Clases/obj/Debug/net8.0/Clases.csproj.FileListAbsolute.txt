@@ -9,3 +9,15 @@
 /home/anthony/Escritorio/Semana15/Clases/obj/Debug/net8.0/refint/Clases.dll
 /home/anthony/Escritorio/Semana15/Clases/obj/Debug/net8.0/Clases.pdb
 /home/anthony/Escritorio/Semana15/Clases/obj/Debug/net8.0/ref/Clases.dll
+C:\Users\criso\Documents\proyectos c#\Semana15\Clases\bin\Debug\net8.0\Clases.deps.json
+C:\Users\criso\Documents\proyectos c#\Semana15\Clases\bin\Debug\net8.0\Clases.dll
+C:\Users\criso\Documents\proyectos c#\Semana15\Clases\bin\Debug\net8.0\Clases.pdb
+C:\Users\criso\Documents\proyectos c#\Semana15\Clases\obj\Debug\net8.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\criso\Documents\proyectos c#\Semana15\Clases\obj\Debug\net8.0\Clases.AssemblyInfoInputs.cache
+C:\Users\criso\Documents\proyectos c#\Semana15\Clases\obj\Debug\net8.0\Clases.AssemblyInfo.cs
+C:\Users\criso\Documents\proyectos c#\Semana15\Clases\obj\Debug\net8.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\criso\Documents\proyectos c#\Semana15\Clases\obj\Debug\net8.0\Clases.dll
+C:\Users\criso\Documents\proyectos c#\Semana15\Clases\obj\Debug\net8.0\refint\Clases.dll
+C:\Users\criso\Documents\proyectos c#\Semana15\Clases\obj\Debug\net8.0\Clases.pdb
+C:\Users\criso\Documents\proyectos c#\Semana15\Clases\obj\Debug\net8.0\ref\Clases.dll
+C:\Users\criso\Documents\proyectos c#\Semana15\Clases\obj\Debug\net8.0\Clases.sourcelink.json

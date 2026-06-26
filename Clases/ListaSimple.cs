@@ -1,3 +1,9 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
 namespace Clases
 {
     public class ListaSimple
@@ -24,7 +30,6 @@ namespace Clases
                 temp.sig = nuevo;
             }
         }
-
         public void Mostrar()
         {
             Vertice temp = primero;
