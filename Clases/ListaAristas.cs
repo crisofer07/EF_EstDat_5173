@@ -9,11 +9,13 @@ namespace Clases
     public class ListaAristas
     {
         public Arista primero = null;
+
         public void Insertar(Vertice d, float p)
         {
             Arista nuevo = new Arista();
             nuevo.destino = d;
             nuevo.peso = p;
+
             if (primero == null)
             {
                 primero = nuevo;
@@ -35,7 +37,8 @@ namespace Clases
             int i = 1;
             while (temp != null)
             {
-                Console.WriteLine(i + ". Próxima parada: " + temp.destino.dato.nombre + " - Distancia: " + temp.peso + " metros");
+                string rastro = temp.destino.visitado ? " [YA VISITADO]" : "";
+                Console.WriteLine(i + ". " + temp.destino.dato + " - Peso: " + temp.peso + rastro);
                 temp = temp.sig;
                 i++;
             }

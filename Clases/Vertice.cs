@@ -10,6 +10,7 @@ namespace Clases
     {
         public Ciudad dato;
         public Vertice sig = null;
+        public bool visitado = false;
         public ListaAristas ls = new ListaAristas();
     }
 }

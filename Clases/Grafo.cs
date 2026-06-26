@@ -10,8 +10,8 @@ namespace Clases
     {
         ListaSimple l_vertices = new ListaSimple();
         int[,] ma;
-        string[] nom_ciudades = { "RESTAURANTE CENTRAL", "CLIENTE NORTE", "RESTAURANTE SUR", "CLIENTE ESTE", "HUB DESPACHO", "CLIENTE OESTE", "RESTAURANTE CENTRO", "CLIENTE CONDOCENTRO" };
-        string[] climas = { "URGENTE", "NORMAL", "EXPRESS", "PROGRAMADO", "URGENTE", "NORMAL", "EXPRESS", "URGENTE" };
+        string[] nom_ciudades = { "RESTAURANTE CENTRAL", "CLIENTE ZONA NORTE", "RESTAURANTE SUR", "CLIENTE ZONA ESTE", "HUB DESPACHO KFC", "CLIENTE ZONA OESTE", "BURGER KING CENTRO", "CLIENTE CONDOMINIO" };
+        string[] climas = { "RESTAURANTE", "CLIENTE", "RESTAURANTE", "CLIENTE", "RESTAURANTE", "CLIENTE", "RESTAURANTE", "CLIENTE" };
         public Grafo(int cant)
         {
             Random r = new Random();
@@ -29,15 +29,28 @@ namespace Clases
         {
             return l_vertices.primero;
         }
-
         public void GenerarMatriz()
         {
             Random r = new Random();
             for (int i = 0; i < ma.GetLength(0); i++)
             {
+                int conexiones = 0;
                 for (int j = 0; j < ma.GetLength(1); j++)
                 {
-                    ma[i, j] = r.Next(0, 2);
+                    if (i == j)
+                    {
+                        ma[i, j] = 0;
+                    }
+                    else
+                    {
+                        ma[i, j] = r.Next(0, 2);
+                        if (ma[i, j] == 1) conexiones++;
+                    }
+                }
+                if (conexiones == 0)
+                {
+                    int forzado = (i + 1) % ma.GetLength(0);
+                    ma[i, forzado] = 1;
                 }
             }
         }
@@ -72,18 +85,30 @@ namespace Clases
         }
         public void Recorrer(Vertice v, ref float total)
         {
+            v.visitado = true;
             Console.ReadKey();
             Console.Clear();
-            Console.WriteLine("================================================");
+            Console.WriteLine("--------------------------------");
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.Write("REPARTIDOR UBICADO EN:\n" + v.dato + "\n");
+            Console.Write("Punto actual: \n" + v.dato + "\n");
             Console.ResetColor();
-            Console.WriteLine("================================================");
-            Console.WriteLine("Rutas de envío directo disponibles desde aquí: ");
+            Console.WriteLine("--------------------------------");
+            Console.WriteLine("Viajes disponibles: ");
             v.ls.Mostrar();
-            Console.WriteLine("================================================");
-            Console.Write("Seleccione el número de la siguiente entrega (0 para finalizar): ");
-            int op = int.Parse(Console.ReadLine());
+            Console.WriteLine("--------------------------------");
+            Console.Write("Ingrese el numero al que desea viajar (0 para salir): ");
+            int total_opciones = 0;
+            Arista contar = v.ls.primero;
+            while (contar != null)
+            {
+                total_opciones++;
+                contar = contar.sig;
+            }
+            int op;
+            while (!int.TryParse(Console.ReadLine(), out op) || op < 0 || op > total_opciones)
+            {
+                Console.Write("Invalido. Ingrese un numero correcto: ");
+            }
             if (op == 0) return;
             Arista temp = v.ls.primero;
             for (int i = 1; i < op; i++)

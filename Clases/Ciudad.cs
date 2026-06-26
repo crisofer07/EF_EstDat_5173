@@ -13,7 +13,7 @@ namespace Clases
         public float temperatura;
         public override string ToString()
         {
-            return $"{nombre} [Envío: {tipo_pedido} - Cocina: {temperatura} min]";
+            return $"{nombre} (Rol: {tipo_pedido} - {temperatura} min)";
         }
     }
 }

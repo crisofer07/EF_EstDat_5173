@@ -9,7 +9,6 @@ namespace Clases
     public class ListaSimple
     {
         public Vertice primero = null;
-
         public void Insertar(Ciudad d)
         {
             Vertice nuevo = new Vertice();
@@ -22,7 +21,6 @@ namespace Clases
             else
             {
                 Vertice temp = primero;
-
                 while (temp.sig != null)
                 {
                     temp = temp.sig;

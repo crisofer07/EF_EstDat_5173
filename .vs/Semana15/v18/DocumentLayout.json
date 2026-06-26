@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\criso\\Documents\\proyectos c#\\Semana15\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21058D65-3053-4AA0-B809-52D1AF7308E4}|Clases\\Clases.csproj|c:\\users\\criso\\documents\\proyectos c#\\semana15\\clases\\grafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21058D65-3053-4AA0-B809-52D1AF7308E4}|Clases\\Clases.csproj|solutionrelative:clases\\grafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21058D65-3053-4AA0-B809-52D1AF7308E4}|Clases\\Clases.csproj|c:\\users\\criso\\documents\\proyectos c#\\semana15\\clases\\vertice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21058D65-3053-4AA0-B809-52D1AF7308E4}|Clases\\Clases.csproj|solutionrelative:clases\\vertice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21058D65-3053-4AA0-B809-52D1AF7308E4}|Clases\\Clases.csproj|c:\\users\\criso\\documents\\proyectos c#\\semana15\\clases\\arista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21058D65-3053-4AA0-B809-52D1AF7308E4}|Clases\\Clases.csproj|solutionrelative:clases\\arista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21058D65-3053-4AA0-B809-52D1AF7308E4}|Clases\\Clases.csproj|c:\\users\\criso\\documents\\proyectos c#\\semana15\\clases\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21058D65-3053-4AA0-B809-52D1AF7308E4}|Clases\\Clases.csproj|solutionrelative:clases\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21058D65-3053-4AA0-B809-52D1AF7308E4}|Clases\\Clases.csproj|c:\\users\\criso\\documents\\proyectos c#\\semana15\\clases\\listaaristas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21058D65-3053-4AA0-B809-52D1AF7308E4}|Clases\\Clases.csproj|solutionrelative:clases\\listaaristas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F758D51F-F904-475F-8CEB-D5D6E7D0DD93}|Ejecucion\\Ejecucion.csproj|c:\\users\\criso\\documents\\proyectos c#\\semana15\\ejecucion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F758D51F-F904-475F-8CEB-D5D6E7D0DD93}|Ejecucion\\Ejecucion.csproj|solutionrelative:ejecucion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21058D65-3053-4AA0-B809-52D1AF7308E4}|Clases\\Clases.csproj|c:\\users\\criso\\documents\\proyectos c#\\semana15\\clases\\listasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21058D65-3053-4AA0-B809-52D1AF7308E4}|Clases\\Clases.csproj|solutionrelative:clases\\listasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F758D51F-F904-475F-8CEB-D5D6E7D0DD93}|Ejecucion\\Ejecucion.csproj|c:\\users\\criso\\documents\\proyectos c#\\semana15\\ejecucion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F758D51F-F904-475F-8CEB-D5D6E7D0DD93}|Ejecucion\\Ejecucion.csproj|solutionrelative:ejecucion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21058D65-3053-4AA0-B809-52D1AF7308E4}|Clases\\Clases.csproj|c:\\users\\criso\\documents\\proyectos c#\\semana15\\clases\\listaaristas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21058D65-3053-4AA0-B809-52D1AF7308E4}|Clases\\Clases.csproj|solutionrelative:clases\\listaaristas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21058D65-3053-4AA0-B809-52D1AF7308E4}|Clases\\Clases.csproj|c:\\users\\criso\\documents\\proyectos c#\\semana15\\clases\\grafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21058D65-3053-4AA0-B809-52D1AF7308E4}|Clases\\Clases.csproj|solutionrelative:clases\\grafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21058D65-3053-4AA0-B809-52D1AF7308E4}|Clases\\Clases.csproj|c:\\users\\criso\\documents\\proyectos c#\\semana15\\clases\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21058D65-3053-4AA0-B809-52D1AF7308E4}|Clases\\Clases.csproj|solutionrelative:clases\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21058D65-3053-4AA0-B809-52D1AF7308E4}|Clases\\Clases.csproj|c:\\users\\criso\\documents\\proyectos c#\\semana15\\clases\\arista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21058D65-3053-4AA0-B809-52D1AF7308E4}|Clases\\Clases.csproj|solutionrelative:clases\\arista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21058D65-3053-4AA0-B809-52D1AF7308E4}|Clases\\Clases.csproj|c:\\users\\criso\\documents\\proyectos c#\\semana15\\clases\\vertice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21058D65-3053-4AA0-B809-52D1AF7308E4}|Clases\\Clases.csproj|solutionrelative:clases\\vertice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,23 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Vertice.cs",
               "DocumentMoniker": "C:\\Users\\criso\\Documents\\proyectos c#\\Semana15\\Clases\\Vertice.cs",
               "RelativeDocumentMoniker": "Clases\\Vertice.cs",
               "ToolTip": "C:\\Users\\criso\\Documents\\proyectos c#\\Semana15\\Clases\\Vertice.cs",
               "RelativeToolTip": "Clases\\Vertice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T23:02:06.65Z"
+              "WhenOpened": "2026-06-24T23:02:06.65Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Arista.cs",
               "DocumentMoniker": "C:\\Users\\criso\\Documents\\proyectos c#\\Semana15\\Clases\\Arista.cs",
               "RelativeDocumentMoniker": "Clases\\Arista.cs",
@@ -62,68 +63,73 @@
               "RelativeToolTip": "Clases\\Arista.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T23:02:09.922Z"
+              "WhenOpened": "2026-06-24T23:02:09.922Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Ciudad.cs",
               "DocumentMoniker": "C:\\Users\\criso\\Documents\\proyectos c#\\Semana15\\Clases\\Ciudad.cs",
               "RelativeDocumentMoniker": "Clases\\Ciudad.cs",
               "ToolTip": "C:\\Users\\criso\\Documents\\proyectos c#\\Semana15\\Clases\\Ciudad.cs",
               "RelativeToolTip": "Clases\\Ciudad.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T23:02:09.41Z"
+              "WhenOpened": "2026-06-24T23:02:09.41Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Grafo.cs",
               "DocumentMoniker": "C:\\Users\\criso\\Documents\\proyectos c#\\Semana15\\Clases\\Grafo.cs",
               "RelativeDocumentMoniker": "Clases\\Grafo.cs",
               "ToolTip": "C:\\Users\\criso\\Documents\\proyectos c#\\Semana15\\Clases\\Grafo.cs",
               "RelativeToolTip": "Clases\\Grafo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-24T23:02:08.881Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ListaAristas.cs",
               "DocumentMoniker": "C:\\Users\\criso\\Documents\\proyectos c#\\Semana15\\Clases\\ListaAristas.cs",
               "RelativeDocumentMoniker": "Clases\\ListaAristas.cs",
               "ToolTip": "C:\\Users\\criso\\Documents\\proyectos c#\\Semana15\\Clases\\ListaAristas.cs",
               "RelativeToolTip": "Clases\\ListaAristas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T23:02:08.314Z"
+              "WhenOpened": "2026-06-24T23:02:08.314Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ListaSimple.cs",
               "DocumentMoniker": "C:\\Users\\criso\\Documents\\proyectos c#\\Semana15\\Clases\\ListaSimple.cs",
               "RelativeDocumentMoniker": "Clases\\ListaSimple.cs",
               "ToolTip": "C:\\Users\\criso\\Documents\\proyectos c#\\Semana15\\Clases\\ListaSimple.cs",
               "RelativeToolTip": "Clases\\ListaSimple.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T23:02:07.642Z"
+              "WhenOpened": "2026-06-24T23:02:07.642Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\criso\\Documents\\proyectos c#\\Semana15\\Ejecucion\\Program.cs",
               "RelativeDocumentMoniker": "Ejecucion\\Program.cs",
               "ToolTip": "C:\\Users\\criso\\Documents\\proyectos c#\\Semana15\\Ejecucion\\Program.cs",
               "RelativeToolTip": "Ejecucion\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T23:02:04.639Z"
+              "WhenOpened": "2026-06-24T23:02:04.639Z",
+              "EditorCaption": ""
             }
           ]
         }
